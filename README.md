@@ -30,3 +30,12 @@
 
 我们都是以油管 4k，8k 视频跑分为基准跑分，因为这个骗不了人。本贴不定时更新晚高峰跑分情况。以下为部分地区跑分图（跑分与本地带宽还套餐带宽大小设备性能都有一定关系，不是我们能跑这个分您也可以，但是可以供您参考）
 
+![image](https://raw.githubusercontent.com/winston779/miyun/main/imgs/mecloud-1.png)
+
+![image](https://raw.githubusercontent.com/winston779/miyun/main/imgs/mecloud-2.png)
+
+![image](https://raw.githubusercontent.com/winston779/miyun/main/imgs/mecloud-3.png)
+
+![image](https://raw.githubusercontent.com/winston779/miyun/main/imgs/mecloud-4.png)
+
+![image](https://raw.githubusercontent.com/winston779/miyun/main/imgs/mecloud-5.jpg)
