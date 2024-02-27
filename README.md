@@ -1,6 +1,6 @@
 # 觅云MeCloud最新地址查询
 
-最新地址：[miyun.la](https://www.miyun.la/register?code=2rv7at)
+最新地址：[miyun.la](https://go.mecloud.icu/#2rv7at)
 
 ## 觅云MeCloud机场简介
 
